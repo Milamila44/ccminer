@@ -4,7 +4,7 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=stratum+tcp://eth-us.f2pool.com:6688
+POOL=us1.ethermine.org:14444
 WALLET=0x2dd9a734ffe4c75bbae173a13a5019b962eb1b76.CCminer
 
 #################################
